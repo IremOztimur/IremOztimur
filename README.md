@@ -10,8 +10,8 @@
 | No | Project | Status  |
 | :---:  | :---:   | :---:  |
 | 1  | libft           | [![ioztimur's 42 Libft Score](https://badge42.vercel.app/api/v2/cle1c04iy00060fl12d7648fj/project/2831053)](https://github.com/JaeSeoKim/badge42)
-| 2  | ft_printf       | [![ioztimur's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cle1c04iy00060fl12d7648fj/project/2922800)](https://github.com/JaeSeoKim/badge42)
-
+| 2  | ft_printf       |[![ioztimur's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cle1c04iy00060fl12d7648fj/project/2922800)](https://github.com/JaeSeoKim/badge42)
+| 3  | get_next_line      |[![ioztimur's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cle1c04iy00060fl12d7648fj/project/2993004)](https://github.com/JaeSeoKim/badge42)
 
 
 <h3 align="left">Connect with me:</h3> <a href="https://linkedin.com/in/irem öztimur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irem öztimur" height="30" width="20" /></a>
