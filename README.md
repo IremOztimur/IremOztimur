@@ -15,6 +15,7 @@
 | 4  | Born2beroot       |[![ioztimur's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cle1c04iy00060fl12d7648fj/project/3033429)](https://github.com/JaeSeoKim/badge42)
 | 5  | minitalk      |[![ioztimur's 42 minitalk Score](https://badge42.vercel.app/api/v2/cle1c04iy00060fl12d7648fj/project/3059097)](https://github.com/JaeSeoKim/badge42)
 | 6  | so_long      |[![ioztimur's 42 so_long Score](https://badge42.vercel.app/api/v2/cle1c04iy00060fl12d7648fj/project/3069503)](https://github.com/JaeSeoKim/badge42)
+| 7  | so_long      |[![ioztimur's 42 push_swap Score](https://badge42.vercel.app/api/v2/cle1c04iy00060fl12d7648fj/project/3087560)](https://github.com/JaeSeoKim/badge42)
 
 
 <h3 align="left">Connect with me:</h3> <a href="https://linkedin.com/in/irem öztimur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irem öztimur" height="30" width="20" /></a>
