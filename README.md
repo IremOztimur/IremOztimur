@@ -5,7 +5,7 @@
 
 - 🎯 I’m currently working on **Autonomous Systems**
 
-- 👨‍💻 Most of my projects are available at [https://iremoztimur.github.io](https://iremoztimur.github.io)
+- 👨‍💻 Most of my public projects are available at [https://iremoztimur.github.io](https://iremoztimur.github.io)
 
 - 🏄🏻‍♀️ Other than programming, you can explore more about me [here](https://magenta-painter-fc2.notion.site/rem-ztimur-4ab10311196a45d586fbd8e7f63bcdd0) 
 
