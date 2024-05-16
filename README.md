@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Autonomous Systems**
 
-- 👨‍💻 All of my projects are available at [https://iremoztimur.github.io](https://iremoztimur.github.io)
+- 👨‍💻 Most of my projects are available at [https://iremoztimur.github.io](https://iremoztimur.github.io)
 
 - 📫 How to reach me **iremoztimur07@gmail.com**
 
