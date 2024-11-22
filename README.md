@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iremoztimur&label=Profile%20views&color=61177c&style=flat" alt="iremoztimur" /> </p>
 
-- 🎯 I’m currently working on **Autonomous Systems and Backend Development**
+- 🎯 I’m currently working on **Machine Learning Development and Agentic AI Systems**
 
 - 👨‍💻 Most of my public projects are available at [https://iremoztimur.github.io](https://iremoztimur.github.io)
 
