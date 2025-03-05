@@ -9,7 +9,6 @@
 
 - 🏄🏻‍♀️ Other than programming, you can explore more about me [here](https://magenta-painter-fc2.notion.site/rem-ztimur-4ab10311196a45d586fbd8e7f63bcdd0) 
 
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/IremOztimur/AI4Robotics/assets/77894816/96c1e93c-1135-4c32-9fad-c9b0fc5dd980)
 
 
 <p align="left">
