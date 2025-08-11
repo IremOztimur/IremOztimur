@@ -40,6 +40,9 @@ Hi there 👋 I'm Irem, an AI Engineer focused on building practical and intelli
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <br>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <br>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -56,3 +59,7 @@ Hi there 👋 I'm Irem, an AI Engineer focused on building practical and intelli
 My passion for creative technology extends into the arts. As part of the Istanbul Algorave community, I perform live-coded audiovisual sets under the name **Aviara**, using Strudel for music and Hydra for visuals. I enjoy merging instinct and logic through code on stage.
 
 I'm also deeply curious about the future of human-computer interaction, particularly in Brain-Computer Interfaces (BCI) and neurotechnology.
+
+##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg) 
+
