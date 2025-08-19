@@ -52,13 +52,7 @@ Hi there 👋 I'm Irem, an AI Engineer focused on building practical and intelli
   <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
 </p>
 
-<p align='center'><b>Most Used Languages</b></p>
 
-<p align='center'>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IremOztimur&hide_title=1&layout=compact&theme=dark" alt="Top Langs" />
-</a>
-</p>
 
 ---
 
