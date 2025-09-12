@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Irem Oztimur </h1>
 
-<h3 align="center">AI Engineer | Agentic Systems Architect | Context Engineer</h3>
+<h3 align="center">Gen AI Solutions Architect</h3>
 
 <p align="center">
   <a href="https://github.com/iremoztimur">
