@@ -5,7 +5,7 @@
 <a href="https://github.com/iremoztimur">
 <img src="https://komarev.com/ghpvc/?username=iremoztimur&label=Profile%20Views&color=61177c&style=flat-square" alt="Profile views" />
 </a>
-<a href="https://ioztimur.vercel.app/">
+<a href="https://ioztimur.com/">
 <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square&logo=vercel" alt="Portfolio">
 </a>
 <a href="https://magenta-painter-fc2.notion.site/rem-ztimur-4ab10311196a45d586fbd8e7f63bcdd0">
