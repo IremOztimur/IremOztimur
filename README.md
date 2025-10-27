@@ -55,10 +55,14 @@ My key contributions included:
 <br>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
+<img src="https://img.shields.io/badge/-Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+
 <br>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+
 </p>
 
 ## Beyond the Code
