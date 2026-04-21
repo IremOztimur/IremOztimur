@@ -1,6 +1,6 @@
 <h1 align="center">İrem Öztimur</h1>
 
-<h3 align="center">DevRel Engineer · AI Systems Builder · Live-Coding Musician</h3>
+<h3 align="center">DevRel Engineer · AI Systems Builder · Creative Coder</h3>
 <p align="center">
   <img width="400" alt="b7398e3b-3b4d-49ba-826f-3859df306617" src="https://github.com/user-attachments/assets/442b888f-4c55-4d4d-a85a-8aa6715888de" />
 </p>
