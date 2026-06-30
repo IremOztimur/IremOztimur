@@ -22,45 +22,15 @@ Previously architected a **multi-agent virtual assistant** for a healthcare ente
 
 Part of **[42 Network](https://www.42network.org/)**, where I built a strong foundation in systems programming and software engineering through intensive C/C++ projects.
 
-## What I Work With
+### What I Work With 
 
-**AI & Agent Engineering**
+**AI & Agents:** Upsonic, LangChain, LangGraph, ChromaDB, Ollama, RAG pipelines 
 
-- AI Agents
-- Agent Workflows
-- LangGraph
-- LangChain
-- RAG
-- MCP
-- ChromaDB
-- Ollama
-- OpenAI APIs
+**Languages:** Python, C, C++
 
-**Backend**
+**Web:** FastAPI, Django, Next.js, React, Tailwind, WebSockets
 
-- Python
-- Django
-- FastAPI
-- REST APIs
-- WebSockets
-- Celery
-- PostgreSQL
-- Redis
-
-**Frontend**
-
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-
-**Infrastructure**
-
-- Docker
-- GitHub Actions
-- AWS
-- DigitalOcean
-- Linux
+**DevOps:** Docker, GitHub Actions, DigitalOcean, AWS EC2
 
 ## Beyond the Terminal
 
