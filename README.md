@@ -1,51 +1,18 @@
-<h1 align="center">İrem Öztimur</h1>
+# İrem Öztimur
 
-<h3 align="center">Software Engineer · AI Agent Systems · Full-Stack Developer</h3>
+Software engineer building AI agents.
 
-<p align="center">
-  <img width="400" alt="b7398e3b-3b4d-49ba-826f-3859df306617" src="https://github.com/user-attachments/assets/442b888f-4c55-4d4d-a85a-8aa6715888de" />
-</p>
+Currently exploring:
 
-<p align="center">
-<a href="https://ioztimur.com/">
-<img src="https://img.shields.io/badge/Portfolio-ioztimur.com-000?style=flat-square&logo=vercel" alt="Portfolio">
-</a>
-</p>
+- autonomous systems
+- browser automation
+- context engineering
+- backend infrastructure
+- knowledge bases
+- creative coding
 
----
+I enjoy building tools I'd actually use myself. Most of my projects start with curiosity, and I learn by building.
 
-Software Engineer at **Upsonic**, where I build AI agent workflows and full-stack AI applications.
+-> https://ioztimur.com
 
-I enjoy solving complex engineering problems involving autonomous systems, modern web technologies, and developer tooling.
-
-Previously architected a **multi-agent virtual assistant** for a healthcare enterprise using LangGraph, RAG pipelines, and ChromaDB, while building the complete platform with FastAPI and Next.js.
-
-Part of **[42 Network](https://www.42network.org/)**, where I built a strong foundation in systems programming and software engineering through intensive C/C++ projects.
-
-### What I Work With 
-
-**AI & Agents:** Upsonic, LangChain, LangGraph, ChromaDB, Ollama, RAG pipelines 
-
-**Languages:** Python, C, C++
-
-**Web:** FastAPI, Django, Next.js, React, Tailwind, WebSockets
-
-**DevOps:** Docker, GitHub Actions, DigitalOcean, AWS EC2
-
-## Beyond the Terminal
-
-🎵 **Aviara** — I perform live-coded electronic music at algorave events using Strudel for sound and Hydra for visuals.
-
-🧗 Rock climbing and bouldering.
-
-🧠 Curious about neuroscience, cognitive science, and brain-computer interfaces.
-
-🥾 Always looking for the next hiking trail.
-
-🍞 Occasionally baking sourdough between deployments.
-
----
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&center=true&vCenter=true&lines=Follow+the+white+rabbit..." alt="Typing animation"/>
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&center=true&vCenter=true&lines=Follow+the+white+rabbit..." alt="Typing animation"/> </p>
